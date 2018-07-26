@@ -6,7 +6,7 @@ ingredients = [
     ["mayo", "mustard", "tabasco"]
 ]
 
-def sandwich_request(ingredients, ["sourdough", "tofu", "cheddar"]) 
+def sandwich_request(ingredients, ["sourdough", "turkey", ""]) 
   # your code here!
   =>
 end
